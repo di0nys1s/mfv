@@ -1,0 +1,7 @@
+burak,burak,burak,burak,1234567890,burak,password,
+sharvin,shar,shar,addr,1234512345,shar@,password,
+burak2,burak,burak,burak,1234567890,sss,password,
+burak3,burak,burak,burak,1234567890,burak@burak,password,
+jacky,jacky,165,ztan51@styudent.com,0000000000,dfghjk@fg.com,12345678,
+allen,allen,allen,allen,1234567890,@,12345678,
+33,sharvin,sharvin,address,1234512345,shar@gmail.com,password,
